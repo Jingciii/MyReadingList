@@ -1,5 +1,5 @@
 # MyReadingList
-Reading list for research papers in Data Science field. Keep Updating!
+Reading list for research papers in Data Science field. **Keep Updating**!
 
 ## Motivation
 
@@ -24,7 +24,9 @@ Inspired by [Andrew Ng's advice on building a Machine Learning career](https://b
 ## Paper List
 
 - [x] 1. [Describing like Humans: on Diversity in Image Captioning](http://visal.cs.cityu.edu.hk/static/pubs/conf/cvpr19-diversecap.pdf) (have presented to the company teams internally)
-- [ ] 2. [Distributed Representations of Words and Phrases and their Compositionality] (https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
+- [ ] 2. [Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) 
+
+
 
 
 
