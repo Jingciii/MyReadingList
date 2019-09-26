@@ -13,11 +13,13 @@ Inspired by [Andrew Ng's advice on building a Machine Learning career](https://b
 ```
 - What did the author(s) try to accomplish?
 - What were the key elements of the approach(s)?
-- List the concepts/techniques that are new to me and highlight whatever I feel necessary to put into my skillset if there is any.
+- List the concepts/techniques that are new to me and highlight whatever I feel necessary to put into my skill set if there is any.
 - Thoughts and questions
 ```
 
  * Pick one paper and write comments/reviews notes in more detail (like a tech post) at least biweekly
+
+*If it's simply answering questions in first bullet, mark as [summary]. If containing second case, mark as [note]* 
 
 ## Paper List
 
