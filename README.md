@@ -25,6 +25,8 @@ Inspired by [Andrew Ng's advice on building a Machine Learning career](https://b
 
 - [x] 1. [Describing like Humans: on Diversity in Image Captioning](http://visal.cs.cityu.edu.hk/static/pubs/conf/cvpr19-diversecap.pdf) (have presented to the company teams internally)
 - [ ] 2. [Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) 
+- [ ] 3. [Sentiment Analysis of Movie Review Comments](https://pdfs.semanticscholar.org/cbad/1c16d8270f1f1ecd542518ee933922bd647c.pdf)
+- [ ] 4. [Going Deeper with Convolutions](http://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf)
 
 
 
