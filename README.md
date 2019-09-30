@@ -25,9 +25,11 @@ Inspired by [Andrew Ng's advice on building a Machine Learning career](https://b
 
 - [x] 1. [Describing like Humans: on Diversity in Image Captioning](http://visal.cs.cityu.edu.hk/static/pubs/conf/cvpr19-diversecap.pdf) (have presented to the company teams internally)
 - [ ] 2. [Distributed Representations of Words and Phrases and their Compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) 
-- [ ] 3. [Sentiment Analysis of Movie Review Comments](https://pdfs.semanticscholar.org/cbad/1c16d8270f1f1ecd542518ee933922bd647c.pdf)
-- [ ] 4. [Going Deeper with Convolutions](http://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf)
-- [ ] 5. [Class-Balanced Loss Based on Effective Number of Samples](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cui_Class-Balanced_Loss_Based_on_Effective_Number_of_Samples_CVPR_2019_paper.pdf)
+- [ ] 3. [The Structural Topic Model and Applied Social Science](https://scholar.princeton.edu/files/bstewart/files/stmnips2013.pdf)
+- [ ] 4. [Sentiment Analysis of Movie Review Comments](https://pdfs.semanticscholar.org/cbad/1c16d8270f1f1ecd542518ee933922bd647c.pdf)
+- [ ] 5. [Going Deeper with Convolutions](http://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf)
+- [ ] 6. [Class-Balanced Loss Based on Effective Number of Samples](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cui_Class-Balanced_Loss_Based_on_Effective_Number_of_Samples_CVPR_2019_paper.pdf)
+- [ ] 7. [SocialStories: Segmentating Stories within Trending Twitter Topics](https://prakharguptaz.github.io/assets/SocialStories_2016_paper.pdf)[Slides](https://slideplayer.com/slide/12715829/)
 
 
 
