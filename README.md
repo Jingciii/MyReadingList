@@ -30,7 +30,7 @@ Inspired by [Andrew Ng's advice on building a Machine Learning career](https://b
 - [ ] 5. [Going Deeper with Convolutions](http://www.cs.unc.edu/~wliu/papers/GoogLeNet.pdf)
 - [ ] 6. [Class-Balanced Loss Based on Effective Number of Samples](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cui_Class-Balanced_Loss_Based_on_Effective_Number_of_Samples_CVPR_2019_paper.pdf)
 - [ ] 7. [SocialStories: Segmentating Stories within Trending Twitter Topics](https://prakharguptaz.github.io/assets/SocialStories_2016_paper.pdf)[Slides](https://slideplayer.com/slide/12715829/)
-- [ ] 8. [Responsible Team Players Wanted: an Analysis of Soft Skill Requirements in Job Advertisements](https://arxiv.org/pdf/1810.07781.pdf)
+- [x] 8. [Responsible Team Players Wanted: an Analysis of Soft Skill Requirements in Job Advertisements](https://arxiv.org/pdf/1810.07781.pdf)
 - [ ] 9. (Google AI Blog)[Learning Cross-Modal Temporal Representations from Unlabeled Videos](https://ai.googleblog.com/2019/09/learning-cross-modal-temporal.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+blogspot%2FgJZg+(Google+AI+Blog))
 
 
