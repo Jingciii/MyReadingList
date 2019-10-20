@@ -36,6 +36,7 @@ Inspired by [Andrew Ng's advice on building a Machine Learning career](https://b
 - [ ] 11. [Anxious Depression Prediction in Real-time Social Data](https://arxiv.org/ftp/arxiv/papers/1903/1903.10222.pdf)
 - [ ] 12. [NGBoost: Natural Gradient Boosting for PRobabilistic Prediction](https://arxiv.org/pdf/1910.03225v2.pdf)
 - [ ] 13. (Blog) [Are All Kernels Cursed?](https://francisbach.com/cursed-kernels/)
+- [ ] 14. [Clust-LDA: Joint Model for Text Mining and Author Group Inference](https://arxiv.org/pdf/1810.02717.pdf)
 
 
 
