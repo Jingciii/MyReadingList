@@ -38,6 +38,7 @@ Inspired by [Andrew Ng's advice on building a Machine Learning career](https://b
 - [ ] 13. (Blog) [Are All Kernels Cursed?](https://francisbach.com/cursed-kernels/)
 - [ ] 14. [Clust-LDA: Joint Model for Text Mining and Author Group Inference](https://arxiv.org/pdf/1810.02717.pdf)
 - [ ] 15. [XGBoost: A Scalable Tree Boosting System](https://arxiv.org/pdf/1603.02754.pdf)
+- [ ] 16. [LightGBM: A Highly Efficient Gradient Boosting Decision Tree](https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree)
 
 
 
