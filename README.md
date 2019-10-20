@@ -34,7 +34,7 @@ Inspired by [Andrew Ng's advice on building a Machine Learning career](https://b
 - [ ] 9. (Google AI Blog) [Learning Cross-Modal Temporal Representations from Unlabeled Videos](https://ai.googleblog.com/2019/09/learning-cross-modal-temporal.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+blogspot%2FgJZg+(Google+AI+Blog))
 - [x] 10. [A Balanced Perspective on Prediction and Inference for Data Science in Industry](https://assets.pubpub.org/ifh11bok/71561833106678.pdf)
 - [ ] 11. [Anxious Depression Prediction in Real-time Social Data](https://arxiv.org/ftp/arxiv/papers/1903/1903.10222.pdf)
-- [ ] 12. [NGBoost: Natural Gradient Boosting for PRobabilistic Prediction](https://arxiv.org/pdf/1910.03225v2.pdf)
+- [ ] 12. [NGBoost: Natural Gradient Boosting for Probabilistic Prediction](https://arxiv.org/pdf/1910.03225v2.pdf)
 - [ ] 13. (Blog) [Are All Kernels Cursed?](https://francisbach.com/cursed-kernels/)
 - [ ] 14. [Clust-LDA: Joint Model for Text Mining and Author Group Inference](https://arxiv.org/pdf/1810.02717.pdf)
 - [ ] 15. [XGBoost: A Scalable Tree Boosting System](https://arxiv.org/pdf/1603.02754.pdf)
