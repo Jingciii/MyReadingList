@@ -40,5 +40,5 @@ Inspired by [Andrew Ng's advice on building a Machine Learning career](https://b
 - [ ] 15. [XGBoost: A Scalable Tree Boosting System](https://arxiv.org/pdf/1603.02754.pdf)
 - [ ] 16. [LightGBM: A Highly Efficient Gradient Boosting Decision Tree](https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree)
 - [ ] 17. [SSD: Single Shot MultiBox Detector](https://ai.google/research/pubs/pub44872)
-
+- [ ] 18. (Blog) [NLP's ImageNet Moment has arrive](https://thegradient.pub/nlp-imagenet/)
 
