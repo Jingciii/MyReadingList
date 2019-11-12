@@ -42,4 +42,5 @@ Inspired by [Andrew Ng's advice on building a Machine Learning career](https://b
 - [ ] 17. [SSD: Single Shot MultiBox Detector](https://ai.google/research/pubs/pub44872)
 - [ ] 18. (Blog) [NLP's ImageNet Moment has arrive](https://thegradient.pub/nlp-imagenet/)
 - [ ] 19. [Evading Real-Time Person Detectors by Adversarial T-shirt](https://arxiv.org/pdf/1910.11099v1.pdf)
+- [ ] 20. [Snapshot ENsembles: Train 1, Get M for Free](https://arxiv.org/pdf/1704.00109.pdf)
 
