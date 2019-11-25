@@ -46,3 +46,4 @@ Inspired by [Andrew Ng's advice on building a Machine Learning career](https://b
 - [x] 21. [Hierachical Attention Networks for Document Classification](https://www.cc.gatech.edu/~dyang888/docs/naacl16.pdf)
 - [x] 22. [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
 - [ ] 23. [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
+
