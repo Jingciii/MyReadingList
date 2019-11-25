@@ -44,4 +44,5 @@ Inspired by [Andrew Ng's advice on building a Machine Learning career](https://b
 - [ ] 19. [Evading Real-Time Person Detectors by Adversarial T-shirt](https://arxiv.org/pdf/1910.11099v1.pdf)
 - [ ] 20. [Snapshot ENsembles: Train 1, Get M for Free](https://arxiv.org/pdf/1704.00109.pdf)
 - [x] 21. [Hierachical Attention Networks for Document Classification](https://www.cc.gatech.edu/~dyang888/docs/naacl16.pdf)
-
+- [x] 22. [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
+- [ ] 23. [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
