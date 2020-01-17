@@ -49,3 +49,4 @@ Inspired by [Andrew Ng's advice on building a Machine Learning career](https://b
 - [ ] 24. [Causality in Machine Learning](https://arxiv.org/pdf/1911.10500.pdf)
 - [ ] 25. [Batch Normalization: Accelerating Deep Network Training by Reduce Internal Covariate Shift](https://arxiv.org/pdf/1502.03167v3.pdf)
 - [ ] 26. [DiffTaiChi: Differentiable Programming for Physical Simulation](https://arxiv.org/pdf/1910.00935.pdf)
+- [ ] 27. [Delayed Impact of Fair Machine Learning](https://arxiv.org/pdf/1803.04383.pdf)
