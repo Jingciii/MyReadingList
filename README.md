@@ -50,3 +50,4 @@ Inspired by [Andrew Ng's advice on building a Machine Learning career](https://b
 - [ ] 25. [Batch Normalization: Accelerating Deep Network Training by Reduce Internal Covariate Shift](https://arxiv.org/pdf/1502.03167v3.pdf)
 - [ ] 26. [DiffTaiChi: Differentiable Programming for Physical Simulation](https://arxiv.org/pdf/1910.00935.pdf)
 - [ ] 27. [Delayed Impact of Fair Machine Learning](https://arxiv.org/pdf/1803.04383.pdf)
+- [ ] 28. [The Dark Secrets of BERT](https://text-machine-lab.github.io/blog/2020/bert-secrets/)
