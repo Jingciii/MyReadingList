@@ -51,3 +51,5 @@ Inspired by [Andrew Ng's advice on building a Machine Learning career](https://b
 - [ ] 26. [DiffTaiChi: Differentiable Programming for Physical Simulation](https://arxiv.org/pdf/1910.00935.pdf)
 - [ ] 27. [Delayed Impact of Fair Machine Learning](https://arxiv.org/pdf/1803.04383.pdf)
 - [ ] 28. [The Dark Secrets of BERT](https://text-machine-lab.github.io/blog/2020/bert-secrets/)
+- [ ] 29. [On Discrimitive vs. Generative Classifiers: A Comparison of Logistic Regression and Navie Bayes](https://papers.nips.cc/paper/2020-on-discriminative-vs-generative-classifiers-a-comparison-of-logistic-regression-and-naive-bayes.pdf)
+- [ ] 30. [Build, Compute, Critique, Repeat: Data Analysis with Latent Variable Model](http://www.cs.columbia.edu/~blei/papers/Blei2014b.pdf)
