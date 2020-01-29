@@ -52,3 +52,4 @@ Inspired by [Andrew Ng's advice on building a Machine Learning career](https://b
 - [ ] 27. [Delayed Impact of Fair Machine Learning](https://arxiv.org/pdf/1803.04383.pdf)
 - [ ] 28. [The Dark Secrets of BERT](https://text-machine-lab.github.io/blog/2020/bert-secrets/)
 - [ ] 29. [Build, Compute, Critique, Repeat: Data Analysis with Latent Variable Model](http://www.cs.columbia.edu/~blei/papers/Blei2014b.pdf)
+- [x] 30. [MapReduce: Simplifed Data Processing on Large Clusters](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/16cb30b4b92fd4989b8619a61752a2387c6dd474.pdf)
