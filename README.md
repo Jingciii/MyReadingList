@@ -17,9 +17,9 @@ Inspired by [Andrew Ng's advice on building a Machine Learning career](https://b
 - Thoughts and questions
 ```
 
- * Pick one paper and write comments/reviews notes in more detail (like a tech post) at least biweekly
+ * Pick one paper and write comments/reviews notes in more detail (like a tech post) ~~at least biweekly~~ (the unfortunatly has to degrade to monthly before I find new jobs)
 
-*If it's simply answering questions in first bullet, mark as [summary]. If containing second case, mark as [note]* 
+*If it's simply answering questions in first bullet, ~~mark as [summary]. If containing second case, mark as [note]~~ (either way just create a new folder and a readme file under it for better formatting* 
 
 ## Paper List
 
