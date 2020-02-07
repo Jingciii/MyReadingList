@@ -54,3 +54,4 @@ Inspired by [Andrew Ng's advice on building a Machine Learning career](https://b
 - [ ] 29. [Build, Compute, Critique, Repeat: Data Analysis with Latent Variable Model](http://www.cs.columbia.edu/~blei/papers/Blei2014b.pdf)
 - [x] 30. [MapReduce: Simplifed Data Processing on Large Clusters](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/16cb30b4b92fd4989b8619a61752a2387c6dd474.pdf)
 - [ ] 31. [On Random Sampling over Joins](https://courses.cs.washington.edu/courses/cse590q/05au/papers/Chaudhuri-Random.pdf)
+- [ ] 32. [Model-powered Conditional Independence Test](https://arxiv.org/pdf/1709.06138.pdf)
