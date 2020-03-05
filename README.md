@@ -56,3 +56,4 @@ Inspired by [Andrew Ng's advice on building a Machine Learning career](https://b
 - [ ] 31. [On Random Sampling over Joins](https://courses.cs.washington.edu/courses/cse590q/05au/papers/Chaudhuri-Random.pdf)
 - [ ] 32. [Model-powered Conditional Independence Test](https://arxiv.org/pdf/1709.06138.pdf)
 - [ ] 33. [BERT, ELMo, & GPT-2: How contextual are contextualized word representations?](https://kawine.github.io/blog/nlp/2020/02/03/contextual.html)
+- [ ] 34. [The Google File System](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/035fc972c796d33122033a0614bc94cff1527999.pdf)
