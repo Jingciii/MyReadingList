@@ -58,3 +58,4 @@ Inspired by [Andrew Ng's advice on building a Machine Learning career](https://b
 - [ ] 33. [BERT, ELMo, & GPT-2: How contextual are contextualized word representations?](https://kawine.github.io/blog/nlp/2020/02/03/contextual.html)
 - [x] 34. [The Google File System](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/035fc972c796d33122033a0614bc94cff1527999.pdf)
 - [ ] 35. [Lung Infection Quantification of COVID-19 in CT Images with Deep Learning](https://www.profillic.com/paper/arxiv:2003.04655?fbclid=IwAR3kc4-YaVUGjxbYPqMklfpBdceBap3BOlKZRue0ln-tR4ViDobPGAumKLY)
+- [ ] 36. [Beyond Accuracy: Behavioral Testing of NLP Models with CheckList](https://www.aclweb.org/anthology/2020.acl-main.442.pdf)
